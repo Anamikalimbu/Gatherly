@@ -84,4 +84,4 @@ contact forms will post there instead of JSONPlaceholder.
 
 ## GitHub repository
 
-<paste your repository link here>
+<https://github.com/Anamikalimbu/Gatherly>
